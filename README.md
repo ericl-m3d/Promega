@@ -1,7 +1,7 @@
 
 ## Promega
 
-> A curated repo of the official settings and files for the Promega 3D Printer.
+> The official settings and files for the Promega 3D Printer.
 
 ## This Repository
 
