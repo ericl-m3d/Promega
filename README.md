@@ -1,5 +1,5 @@
 
-## Promega And M3D Community
+## Promega & M3D Community
 
 > Houses the official settings and files for the Promega 3D Printer.
 
