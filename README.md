@@ -1,11 +1,11 @@
 
 ## Promega & M3D Community
 
-> Houses the official settings and files for the Promega 3D Printer.
+> The official settings and files for the Promega 3D Printer.
 
 > AND
 
-> Houses the M3D Community settings and files for the Promega 3D Printer.
+> The M3D Community settings and files for the Promega 3D Printer.
 
 ## This Repository
 
